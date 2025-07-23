@@ -15,7 +15,7 @@
 - **Backend:** Node.js, Express, MongoDB, REST APIs  
 - **Blockchain:** Ethers.js, Wallet SDKs, EIP-1193  
 - **DevOps & Tools:** Docker, Git, Postman  
-- **Languages:** JavaScript (ES6+), TypeScript, C++
+- **Languages:** JavaScript (ES6+), TypeScript
 
 ---
 
